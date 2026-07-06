@@ -9,9 +9,9 @@
 ![Leo GitHub stats](https://github-readme-stats.vercel.app/api?username=levidevbr&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br/>
-  <h2>Front-End</h2>
+  <h2>Linguagens</h2>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 
 <h2>DataBase</h2>
 <img algin= "center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
