@@ -8,7 +8,6 @@
 
 <br>
 
-
 <div style="display: inline_block"><br/>
   <h2>Linguagens</h2>
   
