@@ -2,9 +2,9 @@
 <h1>Olá! Eu sou Leonardo Vinicius 🖐️</h1>
 
 
-<p align= "center" dir="auto">Sou de Florianópolis, Brasil🏖️</p>
+<p align= "left" dir="auto">Sou de Florianópolis, Brasil🏖️</p>
 
-<p align= "center" dir="auto">Atualmente focado em exercicios e treinamentos de desenvolvimento em Python e SQL Server</p>
+<p align= "left" dir="auto">Atualmente focado em exercicios e treinamentos de desenvolvimento em Python e SQL Server</p>
 
 <br>
 
