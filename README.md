@@ -1,25 +1,95 @@
+# 👋 Olá! Eu sou o Leonardo Vinicius
 
-<h1>Olá! Eu sou Leonardo Vinicius 🖐️</h1>
+💻 Desenvolvedor em formação, apaixonado por tecnologia e pela resolução de problemas.
 
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software, construindo projetos práticos e consolidando minha base em programação. Meu objetivo é atuar como **Desenvolvedor Full Stack**, evoluindo continuamente através de estudos e desafios reais.
 
-<p align= "left" dir="auto">Sou de Florianópolis, Brasil🏖️</p>
+---
 
-<p align= "left" dir="auto">Atualmente focado em exercicios e treinamentos de desenvolvimento em Python e SQL Server</p>
+## 🚀 Tecnologias
 
-<br>
+### Front-end
 
-<div style="display: inline_block"><br/>
-  <h2>Linguagens</h2>
-  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
+* HTML5
+* CSS3
+* JavaScript *(em desenvolvimento)*
 
-<h2>DataBase</h2>
-<img algin= "center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+### Back-end
 
-<h1>Contato</h1>
+* Python *(em desenvolvimento)*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-vinicius-rosa-de-sousa-7440b311a/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548991775454?text=Ol%C3%A1%20Leonardo,%20vim%20atraves%20do%20GitHub,%20tudo%20bem?)
+### Banco de Dados
 
+* SQL *(em desenvolvimento)*
 
+### Ferramentas
+
+* Git
+* GitHub
+* Visual Studio Code
+* PyCharm
+
+---
+
+## 📚 Repositórios em destaque
+
+### 🎨 HTML & CSS
+
+Exercícios, desafios e projetos desenvolvidos durante meus estudos de HTML5 e CSS3.
+
+🔗 https://github.com/Levidevbr/html-css
+
+---
+
+### ⚡ JavaScript
+
+Projetos e exercícios voltados para lógica de programação, manipulação do DOM e desenvolvimento web.
+
+🔗 https://github.com/Levidevbr/javascript
+
+---
+
+### 🐍 Python
+
+Minha jornada de aprendizado em Python, explorando lógica de programação, automações e fundamentos para aplicações Back-end.
+
+🔗 https://github.com/Levidevbr/Python-PowerUp
+
+---
+
+## 🎯 Atualmente estudando
+
+* Python
+* Estruturas de Dados
+* Programação Orientada a Objetos
+* Git e GitHub
+* Boas práticas de desenvolvimento
+
+---
+
+## 🎯 Próximos passos
+
+* APIs REST
+* Banco de Dados
+* Django
+* React
+* Node.js
+* Docker
+
+---
+
+## 📈 GitHub Stats
+
+> Adicione aqui os cards do GitHub Stats e do Streak, caso utilize.
+
+---
+
+## 📫 Contato
+
+* GitHub: https://github.com/Levidevbr
+* LinkedIn: https://www.linkedin.com/in/leonardo-vinicius-rosa-de-sousa-7440b311a/
+* Email: leonardo9177@gmail.com
+
+---
+
+⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedor.
