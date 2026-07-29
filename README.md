@@ -78,12 +78,6 @@ Minha jornada de aprendizado em Python, explorando lógica de programação, aut
 
 ---
 
-## 📈 GitHub Stats
-
-> Adicione aqui os cards do GitHub Stats e do Streak, caso utilize.
-
----
-
 ## 📫 Contato
 
 * GitHub: https://github.com/Levidevbr
